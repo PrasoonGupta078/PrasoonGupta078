@@ -51,10 +51,27 @@ I enjoy building practical software projects and experimenting with **game devel
 
 ---
 
-## 📂 Featured Projects
+## ⭐ Featured Projects
 
-Check out my repositories here:
-👉 https://github.com/PrasoonGupta078
+### 🎮 Tilevania Adventure
+Retro-inspired 2D platformer built in Unity featuring challenging levels, collectibles, and responsive controls.
+
+Repository:  
+https://github.com/PrasoonGupta078/Tilevania-Adventure
+
+
+### ☕ Quiz Platform Java
+A Java-based quiz platform with user authentication, quiz creation, and quiz participation features built using object-oriented design principles.
+
+Repository:  
+https://github.com/PrasoonGupta078/quiz-platform-java
+
+
+### 📋 Task Management System
+A Java console application that allows users to create, manage, and track tasks with descriptions and due dates.
+
+Repository:  
+https://github.com/PrasoonGupta078/TaskManagementSystem
 
 ---
 

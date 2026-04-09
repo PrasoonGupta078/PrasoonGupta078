@@ -4,7 +4,6 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Prasoon Gupta</h1>
 <h3 align="center">MCA Student | Java Backend Developer | Unity Game Dev Enthusiast</h3>
 
 <p align="center">

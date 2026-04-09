@@ -5,7 +5,7 @@
 <h3 align="center">MCA Student | Java Backend Developer | Unity Game Dev Enthusiast</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PrasoonGupta078&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=PrasoonGupta078&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -51,17 +51,20 @@ Java console app for managing tasks with descriptions and due dates.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight" height="165"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight" height="165"/>
 
 </p>
+
+---
+
 ## 📈 Contribution Graph
 
 [![Prasoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasoonGupta078\&theme=tokyo-night)](https://github.com/PrasoonGupta078)
@@ -80,7 +83,19 @@ Java console app for managing tasks with descriptions and due dates.
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/gamecraftprasoon/)
+Feel free to connect with me 👇
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gamecraftprasoon/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:gamesorcerer48@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
+</a>
+
+</p>
 
 ---
 

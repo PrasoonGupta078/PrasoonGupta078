@@ -90,3 +90,15 @@ Java console app for managing tasks with descriptions and due dates.
 ## ⚡ Fun Section
 
 Coming soon.
+
+## 🐍 Contribution Snake
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasoonGupta078/PrasoonGupta078/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasoonGupta078/PrasoonGupta078/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/PrasoonGupta078/PrasoonGupta078/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 📈 Contribution Graph
+
+[![Prasoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasoonGupta078&theme=tokyo-night)](https://github.com/PrasoonGupta078)

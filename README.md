@@ -2,12 +2,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prasoon+Gupta" />
 </p>
 
----
-
 <h3 align="center">MCA Student | Java Backend Developer | Unity Game Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrasoonGupta078&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=PrasoonGupta078&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -19,12 +17,6 @@
 * 🎮 Building small games in **Unity**
 * 💡 Interested in **software engineering & system design**
 * 📫 Reach me: **[gamesorcerer48@gmail.com](mailto:gamesorcerer48@gmail.com)**
-
----
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/gamecraftprasoon/)
 
 ---
 
@@ -58,7 +50,8 @@ Java console app for managing tasks with descriptions and due dates.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -66,30 +59,16 @@ Java console app for managing tasks with descriptions and due dates.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight"/>
-</p>
+[![Prasoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasoonGupta078\&theme=tokyo-night)](https://github.com/PrasoonGupta078)
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrasoonGupta078&theme=algolia"/>
-</p>
-
----
-
-## ⚡ Fun Section
-
-Coming soon.
 
 ## 🐍 Contribution Snake
 
@@ -99,6 +78,14 @@ Coming soon.
 <img alt="github contribution snake" src="https://raw.githubusercontent.com/PrasoonGupta078/PrasoonGupta078/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 📈 Contribution Graph
+---
 
-[![Prasoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasoonGupta078&theme=tokyo-night)](https://github.com/PrasoonGupta078)
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/gamecraftprasoon/)
+
+---
+
+## ⚡ Fun Section
+
+Coming soon.

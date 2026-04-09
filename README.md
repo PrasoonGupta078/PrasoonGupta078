@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prasoon+Gupta+👋" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prasoon+Gupta" /> </p>
 
 <h3 align="center">MCA Student | Java Backend Developer | Unity Game Dev Enthusiast</h3>
 

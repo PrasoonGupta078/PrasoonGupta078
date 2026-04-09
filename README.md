@@ -1,9 +1,3 @@
-# Hi, I'm Prasoon Gupta 👋
-
-🎓 MCA Student
-💻 Focused on **Backend Development (Java)**
-🎮 Game Development enthusiast (Unity)
-
 ---
 
 <h1 align="center">Hi 👋, I'm Prasoon Gupta</h1>

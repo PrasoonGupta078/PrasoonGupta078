@@ -50,20 +50,18 @@ Java console app for managing tasks with descriptions and due dates.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight" height="170"/>
+
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight" height="170"/>
+
 </p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Prasoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasoonGupta078\&theme=tokyo-night)](https://github.com/PrasoonGupta078)

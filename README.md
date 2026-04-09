@@ -6,11 +6,28 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Prasoon Gupta</h1>
+<h3 align="center">MCA Student | Java Backend Developer | Unity Game Dev Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrasoonGupta078&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
 ## 🚀 About Me
 
-I'm an MCA student currently focusing on **Java Backend Development** and improving my **Data Structures & Algorithms** skills.
+* 🎓 MCA student focused on **Backend Development**
+* ☕ Learning **Java + Data Structures & Algorithms**
+* 🎮 Building small games in **Unity**
+* 💡 Interested in **software engineering & system design**
+* 📫 Reach me: **[gamesorcerer48@gmail.com](mailto:gamesorcerer48@gmail.com)**
 
-I enjoy building practical software projects and experimenting with **game development in Unity** as a creative side passion.
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/gamecraftprasoon/)
 
 ---
 
@@ -25,69 +42,51 @@ I enjoy building practical software projects and experimenting with **game devel
 
 ---
 
-## 📚 Currently Learning
+## ⭐ Featured Projects
 
-* Java Backend Development
-* Data Structures & Algorithms
-* Writing cleaner and efficient code
+### 🎮 Tilevania Adventure
+
+Retro-inspired 2D platformer built using Unity with collectibles and platform mechanics.
+
+### ☕ Quiz Platform Java
+
+Java-based quiz platform with authentication, quiz creation and participation.
+
+### 📋 Task Management System
+
+Java console app for managing tasks with descriptions and due dates.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=PrasoonGupta078\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## ⭐ Featured Projects
+## 🏆 GitHub Trophies
 
-### 🎮 Tilevania Adventure
-Retro-inspired 2D platformer built in Unity featuring challenging levels, collectibles, and responsive controls.
-
-Repository:  
-https://github.com/PrasoonGupta078/Tilevania-Adventure
-
-
-### ☕ Quiz Platform Java
-A Java-based quiz platform with user authentication, quiz creation, and quiz participation features built using object-oriented design principles.
-
-Repository:  
-https://github.com/PrasoonGupta078/quiz-platform-java
-
-
-### 📋 Task Management System
-A Java console application that allows users to create, manage, and track tasks with descriptions and due dates.
-
-Repository:  
-https://github.com/PrasoonGupta078/TaskManagementSystem
-
----
-
-## 📫 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/gamecraftprasoon/
-
-Email:
-[gamesorcerer48@gmail.com](mailto:gamesorcerer48@gmail.com)
-
----
-
-## 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PrasoonGupta078\&color=blue)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrasoonGupta078&theme=algolia"/>
+</p>
 
 ---
 

@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prasoon+Gupta+%F0%9F%91%8B" />
 </p>
 
-<h3 align="center">MCA Student | Java Backend Developer | Unity Game Dev Enthusiast</h3>
+<h3 align="center">MCA Student | Java Backend Developer | Unity Game Developer | DSA Enthusiast</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=PrasoonGupta078&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -51,11 +51,11 @@ Java console app for managing tasks with descriptions and due dates.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PrasoonGupta078&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -96,6 +96,8 @@ Feel free to connect with me 👇
 
 ---
 
-## ⚡ Fun Section
+## ⚡ Fun Facts
 
-Coming soon.
+- I enjoy building small indie games 🎮
+- Interested in system design
+- Coffee + coding = productivity ☕

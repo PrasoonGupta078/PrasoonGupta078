@@ -50,12 +50,12 @@ Java console app for managing tasks with descriptions and due dates.
 ## 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight&rank_icon=github" height="165"/>
+   <img src="./profile/stats.svg" height="165"/>   
   <img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="./profile/top-langs.svg" height="165"/>   
 </p>
 
 ---
